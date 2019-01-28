@@ -1,0 +1,22 @@
+[user]
+	email = self@mkrl.xyz
+	name = Mikhail Korolev
+[github]
+	user = mkrl
+
+[core]
+	editor = nano
+	filemode = false
+	trustctime = false
+	autocrlf = input
+	untrackedCache = true
+
+[grep]
+	lineNumber = true
+
+[help]
+	autocorrect = 1
+
+[diff]
+	renames = copies
+	indentHeuristic = true
